@@ -14,6 +14,7 @@ I am a passionate Java Programmer and QA Automation Engineer with a keen interes
 I am enthusiastic about exploring the latest advancements in technology, staying updated with industry trends, and contributing to open-source projects that align with my passion for QA Automation Testing.
 
 ![Profile views](https://komarev.com/ghpvc/?username=ahmad-techie&label=Profile%20views&color=0e75b6&style=flat)
+
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ahmad-techie)
 
 ### Languages and Tools:
