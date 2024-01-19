@@ -1,10 +1,17 @@
-# Ahmad's Profile
-
 ## Hi 👋, I'm Ahmad
 
-### A passionate Java programmer, Java Trainer, and QA Automation Engineer from Virginia, United States
+### A Java programmer, Java Trainer, and QA Automation Engineer from Virginia, United States
 
-![Profile views](https://komarev.com/ghpvc/?username=ahmad-techie&label=Profile%20views&color=0e75b6&style=flat)
+## About Me
+I am a passionate Java Programmer and QA Automation Engineer with a keen interest in technology. As a dedicated professional, I thrive on solving complex problems through code and ensuring the quality of software through effective QA Automation Testing.
+
+## My Expertise
+- **Java Programming:** Proficient in crafting robust and scalable solutions using Java.
+- **QA Automation Engineering:** Experienced in developing and implementing automated testing frameworks to enhance software quality.
+- **Technical Training:** A seasoned Technical Trainer, I enjoy sharing knowledge and empowering others with the skills needed to excel in the tech industry.
+
+## Interests
+I am enthusiastic about exploring the latest advancements in technology, staying updated with industry trends, and contributing to open-source projects that align with my passion for QA Automation Testing.
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ahmad-techie)
 
