@@ -1,7 +1,5 @@
 ## Hi 👋, I'm Ahmad
 
-### A Java programmer, Java Trainer, and QA Automation Engineer from Virginia, United States
-
 ## About Me
 I am a passionate Java Programmer and QA Automation Engineer with a keen interest in technology. As a dedicated professional, I thrive on solving complex problems through code and ensuring the quality of software through effective QA Automation Testing.
 
