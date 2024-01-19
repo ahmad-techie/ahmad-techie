@@ -15,8 +15,6 @@ I am enthusiastic about exploring the latest advancements in technology, staying
 
 ![Profile views](https://komarev.com/ghpvc/?username=ahmad-techie&label=Profile%20views&color=0e75b6&style=flat)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ahmad-techie)
-
 ### Languages and Tools:
 
 <p align="left"> 
