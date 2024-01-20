@@ -5,7 +5,6 @@ I am a passionate Java Programmer and QA Automation Engineer with a keen interes
 
 ## My Expertise
 - **Java Programming:** Proficient in crafting robust and scalable solutions using Java.
-- **QA Automation Engineering:** Experienced in developing and implementing automated testing frameworks to enhance software quality.
 - **Technical Training:** A seasoned Technical Trainer, I enjoy sharing knowledge and empowering others with the skills needed to excel in the tech industry.
 
 ## Interests
