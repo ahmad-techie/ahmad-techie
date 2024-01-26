@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Ahmad
 
 ## About Me
-I am a passionate Java Programmer and QA Automation Engineer with a keen interest in technology. As a dedicated professional, I thrive on solving complex problems through code and ensuring the quality of software through effective QA Automation Testing.
+I am a passionate Java Programmer with a keen interest in technology. As a dedicated professional, I thrive on solving complex problems through code and ensuring the quality of software through effective QA Automation Testing.
 
 ## My Expertise
 - **Java Programming:** Proficient in crafting robust and scalable solutions using Java.
