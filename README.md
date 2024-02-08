@@ -1,14 +1,14 @@
 ## Hi 👋, I'm Ahmad
 
 ## About Me
-I am a passionate Java Programmer with a keen interest in technology. As a dedicated professional, I thrive on solving complex problems through code and ensuring the quality of software through effective QA Automation Testing.
+I am a passionate Java Programmer with a keen interest in technology. As a dedicated professional, I thrive on solving complex problems through code and ensuring the quality of software through effective testing.
 
 ## My Expertise
 - **Java Programming:** Proficient in crafting robust and scalable solutions using Java.
 - **Technical Training:** A seasoned Technical Trainer, I enjoy sharing knowledge and empowering others with the skills needed to excel in the tech industry.
 
 ## Interests
-I am enthusiastic about exploring the latest advancements in technology, staying updated with industry trends, and contributing to open-source projects that align with my passion for QA Automation Testing.
+I am enthusiastic about exploring the latest advancements in technology, staying updated with industry trends, and contributing to open-source projects that align with my passion for software development.
 
 ![Profile views](https://komarev.com/ghpvc/?username=ahmad-techie&label=Profile%20views&color=0e75b6&style=flat)
 
