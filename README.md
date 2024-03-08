@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Ahmad
 
 ## About Me
-I am a passionate Java Programmer with a keen interest in technology. As a dedicated professional, I thrive on solving complex problems through code and ensuring the quality of software through effective testing.
+I am a passionate Java Programmer with a keen interest in technology. I completed a full-stack Java development bootcamp at Merit America in 2021, and I have been working as a Java trainer since Jan 2022. As a dedicated professional, I thrive on solving complex problems through code and ensuring the quality of software through effective testing. 
 
 ## My Expertise
 - **Java Programming:** Proficient in crafting robust and scalable solutions using Java.
