@@ -1,6 +1,6 @@
 
 ## About Me
-I am a passionate API Developer and QA Automation Tester with a keen interest in technology. As a dedicated professional, I thrive on solving complex problems through code and ensuring the quality of software through effective testing. 
+I am a passionate QA Automation Analyst with a keen interest in software quality. As a dedicated professional, I thrive on solving complex problems through code and ensuring the quality of software through effective testing. 
 
 ## My Expertise
 - **Java Programming:** Proficient in crafting robust and scalable solutions using Java.
